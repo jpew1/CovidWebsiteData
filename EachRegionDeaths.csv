@@ -1,4 +1,4 @@
-date,newDeaths28DaysByDeathDateEastMidlands,newDeaths28DaysByDeathDateEastOfEngland,newDeaths28DaysByDeathDateLondon,newDeaths28DaysByDeathDateNorthEast,newDeaths28DaysByDeathDateNorthWest,newDeaths28DaysByDeathDateSouthEast,newDeaths28DaysByDeathDateSouthWest,newDeaths28DaysByDeathDateWestMidlands,newDeaths28DaysByDeathDateYorkshire,,,,,,,,,,,
+date,deathsEastMidlands,deathsEastOfEngland,deathsLondon,deathsNorthEast,deathsNorthWest,deathsSouthEast,deathsSouthWest,deathsWestMidlands,deathsYorkshire,,,,,,,,,,,
 07/01/2021,15,27,48,6,16,36,18,21,15,,,,,,,,,,,
 06/01/2021,42,66,97,20,69,114,31,61,32,,,,,,,,,,,
 05/01/2021,48,88,119,23,63,127,34,64,32,,,,,,,,,,,
